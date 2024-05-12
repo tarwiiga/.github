@@ -8,7 +8,7 @@ At Tarwiiga, we're pioneers in revolutionizing the landscape of digital advertis
 https://www.tarwiiga.com
 
 ## Social Media
-- Linkedin: https://www.linkedin.com/company/tarwiiga
-- Twitter: https://www.twitter.com/tarwiiga
-- Facebook: https://www.facebook.com/tarwiiga
-- Instagram: https://www.instagram.com/tarwiiga
+- Linkedin: https://linkedin.com/company/tarwiiga
+- Twitter: https://twitter.com/tarwiiga
+- Facebook: https://facebook.com/tarwiiga
+- Instagram: https://instagram.com/tarwiiga
